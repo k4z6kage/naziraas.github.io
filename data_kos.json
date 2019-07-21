@@ -1,0 +1,44 @@
+
+
+[
+        {
+        "id":1,    
+        "Judul":"Arena kost",
+        "Gambar":"images/ekskost_l.jpeg",
+        "deskripsi":"Kost Campur (putra dan putri) dengan fasilitas memadai......."
+        },
+        {
+        "id":2,    
+        "Judul":"Paragon Kost",
+        "Gambar":"images/kost2a.jpg",
+        "deskripsi":"Kost putri yang berada di jalan kaliurang ini mempunyai fasilitas........"
+        },
+        {
+        "id":3,    
+        "Judul":"Kost Putra",
+        "Gambar":"images/kost3c.jpeg",
+        "deskripsi":"Kost putra yang berada di daerah sleman ini memiliki fasilitas........"
+        },
+        {
+        "id":4,    
+        "Judul":"Kost Putra Babarsari",
+        "Gambar":"images/kost4c.jpg",
+        "deskripsi":"Kost putra yang berada di jalan babarsari ini terdapat fasilitas memadai......."
+        },
+         {
+        "id":5,    
+        "Judul":"Kost Putra Seturan",
+        "Gambar":"images/kost5b.jpg",
+        "deskripsi":"Kost Putra yang berada di jalan selokan mataram ini difasilitas......."
+        },
+        {
+        "id":6,    
+        "Judul":"Kost Putri Barokah",
+        "Gambar":"images/kost6a.jpg",
+        "deskripsi":"Kost putri yang terletak di jalan kaliurang Km.10 terdapat......"
+        }
+
+       
+      
+  ]
+
